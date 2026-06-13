@@ -22,9 +22,6 @@
   <a href="mailto:w3lt@negentropy.studio">
     <img alt="Email: w3lt@negentropy.studio" src="https://img.shields.io/badge/email-w3lt%40negentropy.studio-38BDF8?style=for-the-badge&labelColor=020617">
   </a>
-  <a href="https://www.linkedin.com/in/tien-duy-pham-603022191/">
-    <img alt="LinkedIn: Tien Duy Pham" src="https://img.shields.io/badge/linkedin-Tien%20Duy%20Pham-38BDF8?style=for-the-badge&labelColor=020617&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://discordapp.com/users/866989139195199508">
     <img alt="Discord: w3lt" src="https://img.shields.io/badge/discord-w3lt-38BDF8?style=for-the-badge&labelColor=020617&logo=discord&logoColor=white">
   </a>
@@ -40,34 +37,12 @@ w3lt@github
 └─ mode     terminal-first, product-minded, anti-entropy
 ```
 
-### stack
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,astro,rust,go,python,docker,postgres,redis,githubactions,neovim"
     alt="TypeScript, React, Vite, Tailwind, Astro, Rust, Go, Python, Docker, Postgres, Redis, GitHub Actions, Neovim"
   >
 </p>
-
-### featured
-
-<table>
-<tr>
-<td>
-
-#### · [blog.negentropy.studio](https://blog.negentropy.studio)
-
-Personal organization blog — terminal-themed notes on tech, systems, and reducing entropy in how we build and learn.
-
-<sub>Astro · React · Tailwind · writing on engineering &amp; tooling</sub>
-
-<a href="https://blog.negentropy.studio"><b>read the blog →</b></a>
-
-</td>
-</tr>
-</table>
-
-### activity
 
 <p align="center">
   <img
