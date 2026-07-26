@@ -47,12 +47,12 @@ w3lt@github
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=w3lt&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api?username=w3lt&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&bg_color=00000000"
     alt="W3lt's GitHub statistics"
   >
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3lt&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&bg_color=00000000"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=w3lt&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&bg_color=00000000"
     alt="W3lt's most used languages"
   >
 </p>
